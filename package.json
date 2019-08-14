@@ -99,7 +99,6 @@
     "webpack-dev-server": "^3.1.14"
   },
   "peerDependencies": {
-    "feather-icons": "https://github.com/SeedBoot/feather.git",
     "vue": "^2.5.0"
   },
   "browserslist": [
